@@ -1,4 +1,4 @@
-#include <iostream>TMR
+#include <iostream>
 using namespace std;
 
 struct Proceso {
