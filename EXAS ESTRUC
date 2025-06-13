@@ -131,7 +131,11 @@ void modificarID() {
             encontrado = true;
             break;
         }
-    
+    }
+
+    if (!encontrado) {
+        cout << "Proceso no encontrado.\n";
+    }
 }
 
 int main() {
